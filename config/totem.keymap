@@ -86,7 +86,7 @@
 
             bindings = <
                 &kp SQT     &kp COMMA   &kp PERIOD   &kp P            &kp Y         &kp F    &kp G        &kp C        &kp R       &kp L
-                &mt LGUI A  &mt LALT O  &mt LCTRL S  &mt LSHFT T      &kp I         &kp D    &mt RSHFT H  &mt RCTRL T  &mt RALT N  &mt RGUI S
+                &mt LGUI A  &mt LALT O  &mt LCTRL E  &mt LSHFT U      &kp I         &kp D    &mt RSHFT H  &mt RCTRL T  &mt RALT N  &mt RGUI S
 &kp LEFT_SHIFT  &kp SEMI    &kp Q       &kp J        &kp K            &kp X         &kp B    &kp M        &kp W        &kp V       &kp Z       &kp RIGHT_SHIFT
                                         &kp TAB      &lt 1 BACKSPACE  &kp DELETE    &kp RET  &lt 2 SPACE  &kp ESCAPE
             >;
